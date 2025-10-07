@@ -3,6 +3,7 @@ using namespace std;
 int main(){
     stack<int> st;
     stack<int> temp;
+    
     st.push(10);
     st.push(20);
     st.push(30);
